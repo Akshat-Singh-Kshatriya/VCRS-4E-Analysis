@@ -129,4 +129,5 @@ text(pts_h(6), pts_P(6)*0.85, '4', 'HorizontalAlignment', 'right', 'VerticalAlig
 
 xlabel('Enthalpy, h (kJ/kg)', 'FontWeight', 'bold', 'Color', 'k');
 ylabel('Pressure, P (bar)', 'FontWeight', 'bold', 'Color', 'k');
+
 title('P-h Diagram (VCRS)', 'FontSize', 14, 'FontWeight', 'bold', 'Color', 'k');
