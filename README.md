@@ -1,5 +1,5 @@
 # Vapour-Compression-Refrigeration-System-4E-Analysis
-4E (Energy, Exergy, Economic, and Environmental) performance analysis and optimization of a Vapour Compression Refrigeration System (VCRS) using R404A, R407C, and R410A refrigerants.
+4E (Energy, Exergy, Economic, and Environmental) performance analysis and optimization of a Vapour Compression Refrigeration System (VCRS) using R134a, R744, and R410a refrigerants.
 
 # Project Overview
 This project provides a **4E (Energy, Exergy, Economic, and Environmental)** analysis of a Vapour Compression Refrigeration System. 
