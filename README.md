@@ -3,7 +3,7 @@
 
 # Project Overview
 This project provides a **4E (Energy, Exergy, Economic, and Environmental)** analysis of a Vapour Compression Refrigeration System. 
-The study evaluates **R134a, R744, and R410A** as zero-ODP alternatives to traditional refrigerants using a computational model.
+The study evaluates **R134a, R744, and R410a** as zero-ODP alternatives to traditional refrigerants using a computational model.
 
 **Energy:** Evaluates the **Coefficient of Performance (COP)** by analyzing refrigerating effect versus compressor.
 
