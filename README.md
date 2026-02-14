@@ -20,11 +20,14 @@ The study evaluates **R134a, R744, and R410a** as zero-ODP alternatives to tradi
     ```
 2.  **Install Dependencies:**
     ```bash
-    pip install pandas yfinance matplotlib seaborn
+    pip install CoolProp
+    ```
+    ```bash
+    pyenv
     ```
 3.  **Run the Analysis:**
     ```bash
-    python project.py
+    project
     ```
 
 
