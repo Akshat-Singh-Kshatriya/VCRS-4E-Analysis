@@ -27,7 +27,10 @@ The study evaluates **R134a, R744, and R410a** as zero-ODP alternatives to tradi
     ```
 3.  **Run the Analysis:**
     ```bash
-    project
+    vcrs
+    ```
+    ```bash
+    vcrs_with_ejector_pin
     ```
 
 
