@@ -13,10 +13,18 @@ The study evaluates **R134a, R744, and R410a** as zero-ODP alternatives to tradi
 
 **Environmental:** Compares **Global Warming Potential (GWP)** and **Ozone Depletion Potential (ODP)** across the tested fluids.
 
-# Contribution
-**Contributions:** Contributions are welcome. Please fork this repository and submit a pull request.
-
-
-
+## How to Run the Model
+1.  **Clone the Repository:**
+    ```bash
+    git clone https://github.com/Akshat-Singh-Kshatriya/VCRS-4E-Analysis.git
+    ```
+2.  **Install Dependencies:**
+    ```bash
+    pip install pandas yfinance matplotlib seaborn
+    ```
+3.  **Run the Analysis:**
+    ```bash
+    python project.py
+    ```
 
 
